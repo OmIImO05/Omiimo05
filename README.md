@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+## Intro
 **OmIImO05/Omiimo05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 🥶🥶🥶🥶🥶🥶🥶
+
+## Projects
+[Omiimo05](https://github.com/OmIImO05?tab=repositories)
+
